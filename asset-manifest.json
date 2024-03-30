@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/monisha-portfolio/static/css/main.7e7137ea.css",
+    "main.js": "/monisha-portfolio/static/js/main.ff47fa0d.js",
+    "static/media/Monisha R M resume.pdf": "/monisha-portfolio/static/media/Monisha R M resume.b17165dec5cc62f0b5da.pdf",
+    "static/media/java.png": "/monisha-portfolio/static/media/java.887dce16f1a48174a036.png",
+    "static/media/python.png": "/monisha-portfolio/static/media/python.19c29c21e2a4810a5727.png",
+    "static/media/react.png": "/monisha-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/code2.png": "/monisha-portfolio/static/media/code2.991831d0a626b3b8e8b3.png",
+    "static/media/mongo.png": "/monisha-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/mysql.png": "/monisha-portfolio/static/media/mysql.fc70beba8dd84ce6e77b.png",
+    "static/media/html.png": "/monisha-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/monisha-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/logo1.jpg": "/monisha-portfolio/static/media/logo1.129ca10d43a3e9a7abdb.jpg",
+    "static/media/javascript.png": "/monisha-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/monisha-portfolio/index.html",
+    "main.7e7137ea.css.map": "/monisha-portfolio/static/css/main.7e7137ea.css.map",
+    "main.ff47fa0d.js.map": "/monisha-portfolio/static/js/main.ff47fa0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e7137ea.css",
+    "static/js/main.ff47fa0d.js"
+  ]
+}
